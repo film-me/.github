@@ -23,8 +23,7 @@
 
 
 ## 🛠 시스템 아키텍처
-![image](https://user-images.githubusercontent.com/70941121/197406076-14910fd4-71d8-4648-90bb-ed9b9b1e1013.png)
-
+![image](https://user-images.githubusercontent.com/70941121/197406660-f3c2d128-4f5f-4f44-8db7-06031b5423a4.png)
 
 
 ## 👪 멤버
